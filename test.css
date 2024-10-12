@@ -973,4 +973,9 @@ max-width: 13rem;
         height: auto;
     }
 }
+/* @media screen and (max-height:1500px) {
+    section#home,section#contact,section#about,section#skill{
+        height: 10;
+    }
+} */
 
